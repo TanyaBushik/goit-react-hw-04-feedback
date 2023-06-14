@@ -11,7 +11,7 @@ export const Statistics = ({
 }) => {
   return (
     <StatsList>
-      <li>Good:{good}</li>
+      <li>Good: {good}</li>
       <li>Neutral: {neutral}</li>
       <li>Bad: {bad}</li>
       <li>Total: {total}</li>
